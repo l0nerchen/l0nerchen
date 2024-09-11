@@ -1,6 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Welcome">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Welcome" />
 
-#欢迎来到我的主页
-#个人玩的比较杂，而且都只是入门
+#这里是l0ner的主页
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0nerchen)](https://github.com/anuraghazra/github-readme-stats)
+欢迎你
+只是一个随便玩玩的高中生
+什么都玩玩，都只是入门
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=l0nerchen&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
